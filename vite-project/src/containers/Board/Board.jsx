@@ -59,7 +59,7 @@ const Board = () => {
     return (
         winner ?
             <div style={styles.messageContainer}>
-                <h1>{`${winner} is the winner`}</h1>
+                <h1>{`${winner} won the game`}</h1>
                 <button style={styles.playAgainButton} onClick={playAgainHandler}>Play again</button>
             </div>
             :

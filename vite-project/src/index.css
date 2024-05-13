@@ -5,6 +5,7 @@
 }
 #root {
   height: 100vh;
+  background-color: #c6d0e5;
 }
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;

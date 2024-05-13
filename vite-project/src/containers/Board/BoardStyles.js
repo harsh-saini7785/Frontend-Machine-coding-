@@ -3,6 +3,7 @@ export const styles = {
         display: 'flex',
         border: '1px solid black',
         flexDirection: 'column',
+        backgroundColor: '#c1d5e8',
         alignItems: 'center',
         justifyContent: 'center',
     },
