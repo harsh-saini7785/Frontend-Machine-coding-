@@ -1,0 +1,20 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.star {
+  font-size: 60px;
+  cursor: pointer;
+}
+
+.gold {
+  color: gold;
+}
+
+.result {
+  font-size: 30px;
+}

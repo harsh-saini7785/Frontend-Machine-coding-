@@ -1,4 +1,6 @@
 export default {
     home: '/',
-    snakeGame: '/snake-game'
+    snakeGame: '/snake-game',
+    starRating: '/star-rating',
+    typeHead: '/type-head',
 }
