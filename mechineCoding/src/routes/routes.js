@@ -21,6 +21,11 @@ const routes = [
         path: endPoints.typeHead,
         component: lazy(() => import('../container/TypeHead/TypeHead')),
         exact: true
+    },
+    {
+        path: endPoints.virtualScrolling,
+        component: lazy(() => import('../container/VirtualScrolling/VirtualScrolling')),
+        exact: true
     }
 ]
 
