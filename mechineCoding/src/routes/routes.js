@@ -26,6 +26,11 @@ const routes = [
         path: endPoints.virtualScrolling,
         component: lazy(() => import('../container/VirtualScrolling/VirtualScrolling')),
         exact: true
+    },
+    {
+        path: endPoints.tosat,
+        component: lazy(() => import('../../src/container/Toast/Toast')),
+        exact: true
     }
 ]
 

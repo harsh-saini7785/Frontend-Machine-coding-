@@ -4,4 +4,5 @@ export default {
     starRating: '/star-rating',
     typeHead: '/type-head',
     virtualScrolling: '/virtual-scrolling',
+    tosat: '/toast',
 }
