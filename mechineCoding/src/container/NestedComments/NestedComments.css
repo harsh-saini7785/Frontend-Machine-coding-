@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  /* background-color: aquamar; */
+}
+.action-buttons {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-left: 10px;
+}
+.action-buttons p {
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.reply-button {
+  color: blue;
+}
+
+.delete-button {
+  color: red;
+}
+.text-area-contaier {
+  margin-top: 10px;
+}
+.post-reply-button {
+  outline: none;
+  border: 1px solid blue;
+  background-color: blue;
+  color: white;
+  padding: 6px;
+  cursor: pointer;
+}
+.children-comment{
+    margin-left: 40px;
+    margin-top: 10px;
+    /* border-left: 1px solid grey; */
+    padding: 8px;
+}
+.comment-container{
+    font-family: fantasy;
+    font-size: 16px;
+}

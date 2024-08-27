@@ -6,6 +6,7 @@ const tasks = [
     { name: 'Type Head', route: endPoints.typeHead, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsWBCTzC-y8EftO6BWnsmWk89d5eItTFsxA&s' },
     { name: 'VirtualScrolling', route: endPoints.virtualScrolling, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsWBCTzC-y8EftO6BWnsmWk89d5eItTFsxA&s' },
     { name: 'Toast', route: endPoints.tosat, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsWBCTzC-y8EftO6BWnsmWk89d5eItTFsxA&s' },
+    { name: 'NestedComments', route: endPoints.nestedComments, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsWBCTzC-y8EftO6BWnsmWk89d5eItTFsxA&s' },
 ];
 
 export default tasks;

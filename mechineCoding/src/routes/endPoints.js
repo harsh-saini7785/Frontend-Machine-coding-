@@ -5,4 +5,5 @@ export default {
     typeHead: '/type-head',
     virtualScrolling: '/virtual-scrolling',
     tosat: '/toast',
+    nestedComments: '/nested-comments'
 }

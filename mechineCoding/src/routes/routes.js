@@ -31,6 +31,11 @@ const routes = [
         path: endPoints.tosat,
         component: lazy(() => import('../../src/container/Toast/Toast')),
         exact: true
+    },
+    {
+        path: endPoints.nestedComments,
+        component: lazy(() => import('../container/NestedComments/NestedComments')),
+        exact: true
     }
 ]
 
