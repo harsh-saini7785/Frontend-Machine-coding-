@@ -36,6 +36,16 @@ const routes = [
         path: endPoints.nestedComments,
         component: lazy(() => import('../container/NestedComments/NestedComments')),
         exact: true
+    },
+    {
+        path: endPoints.fileSystem,
+        component: lazy(() => import('../container/TodoList/TodoList')),
+        exact: true
+    },
+    {
+        path: endPoints.trafficLite,
+        component: lazy(() => import('../container/TrafficLite/TrafficLite')),
+        exact: true
     }
 ]
 

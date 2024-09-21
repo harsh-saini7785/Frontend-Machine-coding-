@@ -5,5 +5,7 @@ export default {
     typeHead: '/type-head',
     virtualScrolling: '/virtual-scrolling',
     tosat: '/toast',
-    nestedComments: '/nested-comments'
+    nestedComments: '/nested-comments',
+    fileSystem: '/file-system',
+    trafficLite: '/traffic-lite'
 }
