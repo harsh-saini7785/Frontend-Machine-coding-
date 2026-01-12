@@ -5,7 +5,6 @@ import tasks from "../../tasks";
 
 const Card = ({ task }) => {
     const navigate = useNavigate();
-    console.log(task?.route);
 
     return (
         <div className="card">
